@@ -9,3 +9,5 @@ Performing analysis on Kickstarter data to uncover trends
 * ![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png) ---
 ##### Great Britain Musicals
 * ![Great Britain Musicals](Great Britain Musicals.png) ---
+ ---
+ I hope the data analysis helps you achieve your goals Louise! Good luck on your future endevours!
